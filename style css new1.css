@@ -1,0 +1,23 @@
+:root {
+    box-sizing: border-box;
+} 
+html,
+body, 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 15px
+    
+} 
+
